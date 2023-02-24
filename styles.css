@@ -1,0 +1,13 @@
+:root {
+  --black: #111111;
+  --origin-color: #f0a52b;
+  --red: #a70e1a;
+  --grey: #a6a6a6;
+  --blue: #0084ff;
+  --redLight: #fa5d37;
+  --darkGrey:#555555;
+}
+
+.box {
+  color: var(--grey);
+}

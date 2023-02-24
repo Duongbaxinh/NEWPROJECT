@@ -1,0 +1,49 @@
+:root {
+  --h1: {
+    font-family: SFD-Semibold;
+    font-size: 12px;
+    line-height: 25px;
+    color: #fff;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #fff;
+  }
+  --Tab: {
+    font-size: 15px;
+    color: #fff;
+    text-decoration: none;
+    line-height: 40px;
+    font-family: SFD-Medium;
+  }
+  --Title1: {
+    font-family: SFD-Bold;
+    font-size: 26px;
+    line-height: 30px;
+    color: #222;
+    text-decoration: none;
+  }
+  --title2: {
+    font-family: SFD-Bold;
+    font-size: 19px;
+    line-height: 22px;
+    color: #222;
+    text-decoration: none;
+  }
+  --title3: {
+    font-family: SFD-Bold;
+    font-size: 17px;
+    line-height: 22px;
+    color: #2d2d2d;
+    text-decoration: none;
+  }
+  --body: {
+    font-size: 14px;
+    line-height: 19px;
+    color: #737373;
+  }
+  --des: {
+    font-size: 14px;
+    line-height: 20px;
+    color: #444;
+  }
+}
